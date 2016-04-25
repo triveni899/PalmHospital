@@ -333,8 +333,15 @@ int remainingCounts;
                                            userInfo:nil
                                             repeats:YES];
     
+    [lblCorrect setText:@" "];
     
+    [Switch1val setOn:NO animated:YES];
     
+    [Switch2val setOn:NO animated:YES];
+   
+    [Switch3val setOn:NO animated:YES];
+    
+    [Switch4val setOn:NO animated:YES];
     
     remainingCounts = 30;
     
