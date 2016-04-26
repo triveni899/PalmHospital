@@ -12,13 +12,27 @@
 		E44345371CCC004C00A43DEC /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E44345361CCC004C00A43DEC /* ViewController.m */; };
 		E443453A1CCC004C00A43DEC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E44345381CCC004C00A43DEC /* Main.storyboard */; };
 		E443453C1CCC004C00A43DEC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E443453B1CCC004C00A43DEC /* Assets.xcassets */; };
-		E443453F1CCC004D00A43DEC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E443453D1CCC004D00A43DEC /* LaunchScreen.storyboard */; };
 		E443454A1CCC004D00A43DEC /* DiseaseReadTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E44345491CCC004D00A43DEC /* DiseaseReadTests.m */; };
 		E44345551CCC004D00A43DEC /* DiseaseReadUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = E44345541CCC004D00A43DEC /* DiseaseReadUITests.m */; };
 		E44345651CCC07FF00A43DEC /* data.txt in Resources */ = {isa = PBXBuildFile; fileRef = E44345641CCC07FF00A43DEC /* data.txt */; };
 		E44345661CCC089800A43DEC /* data.txt in Sources */ = {isa = PBXBuildFile; fileRef = E44345641CCC07FF00A43DEC /* data.txt */; };
 		E44345691CCC150700A43DEC /* diagnosis1.csv in Resources */ = {isa = PBXBuildFile; fileRef = E44345681CCC150700A43DEC /* diagnosis1.csv */; };
 		E443456A1CCC151800A43DEC /* diagnosis1.csv in Sources */ = {isa = PBXBuildFile; fileRef = E44345681CCC150700A43DEC /* diagnosis1.csv */; };
+		E44345AB1CCEBB9200A43DEC /* Hospital2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E44345AA1CCEBB9200A43DEC /* Hospital2.jpg */; };
+		E44345AD1CCECBF400A43DEC /* hurry.gif in Resources */ = {isa = PBXBuildFile; fileRef = E44345AC1CCECBF400A43DEC /* hurry.gif */; };
+		E44345AF1CCED03600A43DEC /* nurse.gif in Resources */ = {isa = PBXBuildFile; fileRef = E44345AE1CCED03600A43DEC /* nurse.gif */; };
+		E44345B11CCEE13B00A43DEC /* play.png in Resources */ = {isa = PBXBuildFile; fileRef = E44345B01CCEE13B00A43DEC /* play.png */; };
+		E44345B31CCEE1A400A43DEC /* play2.png in Resources */ = {isa = PBXBuildFile; fileRef = E44345B21CCEE1A400A43DEC /* play2.png */; };
+		E44345B51CCEEE4900A43DEC /* resultnurse.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E44345B41CCEEE4900A43DEC /* resultnurse.jpg */; };
+		E44345B71CCEEF0A00A43DEC /* pat2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E44345B61CCEEF0A00A43DEC /* pat2.jpg */; };
+		E44345BB1CCEEF1B00A43DEC /* pat1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E44345B81CCEEF1B00A43DEC /* pat1.jpg */; };
+		E44345BC1CCEEF1B00A43DEC /* pat3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E44345B91CCEEF1B00A43DEC /* pat3.jpg */; };
+		E44345BD1CCEEF1B00A43DEC /* pat4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E44345BA1CCEEF1B00A43DEC /* pat4.jpg */; };
+		E44345BF1CCEFE6800A43DEC /* submit.png in Resources */ = {isa = PBXBuildFile; fileRef = E44345BE1CCEFE6800A43DEC /* submit.png */; };
+		E44345C11CCF002B00A43DEC /* new.png in Resources */ = {isa = PBXBuildFile; fileRef = E44345C01CCF002B00A43DEC /* new.png */; };
+		E44345C31CCF00FF00A43DEC /* submit2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E44345C21CCF00FF00A43DEC /* submit2.jpg */; };
+		E44345C51CCF024C00A43DEC /* bground.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E44345C41CCF024C00A43DEC /* bground.jpg */; };
+		E44345C71CCF040600A43DEC /* timer.gif in Resources */ = {isa = PBXBuildFile; fileRef = E44345C61CCF040600A43DEC /* timer.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,7 +61,6 @@
 		E44345361CCC004C00A43DEC /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		E44345391CCC004C00A43DEC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E443453B1CCC004C00A43DEC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		E443453E1CCC004D00A43DEC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E44345401CCC004D00A43DEC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E44345451CCC004D00A43DEC /* DiseaseReadTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DiseaseReadTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E44345491CCC004D00A43DEC /* DiseaseReadTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DiseaseReadTests.m; sourceTree = "<group>"; };
@@ -57,6 +70,21 @@
 		E44345561CCC004D00A43DEC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E44345641CCC07FF00A43DEC /* data.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = data.txt; sourceTree = "<group>"; };
 		E44345681CCC150700A43DEC /* diagnosis1.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = diagnosis1.csv; sourceTree = "<group>"; };
+		E44345AA1CCEBB9200A43DEC /* Hospital2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Hospital2.jpg; sourceTree = "<group>"; };
+		E44345AC1CCECBF400A43DEC /* hurry.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = hurry.gif; sourceTree = "<group>"; };
+		E44345AE1CCED03600A43DEC /* nurse.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = nurse.gif; sourceTree = "<group>"; };
+		E44345B01CCEE13B00A43DEC /* play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = play.png; sourceTree = "<group>"; };
+		E44345B21CCEE1A400A43DEC /* play2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = play2.png; sourceTree = "<group>"; };
+		E44345B41CCEEE4900A43DEC /* resultnurse.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = resultnurse.jpg; sourceTree = "<group>"; };
+		E44345B61CCEEF0A00A43DEC /* pat2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pat2.jpg; sourceTree = "<group>"; };
+		E44345B81CCEEF1B00A43DEC /* pat1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pat1.jpg; sourceTree = "<group>"; };
+		E44345B91CCEEF1B00A43DEC /* pat3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pat3.jpg; sourceTree = "<group>"; };
+		E44345BA1CCEEF1B00A43DEC /* pat4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pat4.jpg; sourceTree = "<group>"; };
+		E44345BE1CCEFE6800A43DEC /* submit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = submit.png; sourceTree = "<group>"; };
+		E44345C01CCF002B00A43DEC /* new.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = new.png; sourceTree = "<group>"; };
+		E44345C21CCF00FF00A43DEC /* submit2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = submit2.jpg; sourceTree = "<group>"; };
+		E44345C41CCF024C00A43DEC /* bground.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bground.jpg; sourceTree = "<group>"; };
+		E44345C61CCF040600A43DEC /* timer.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = timer.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,7 +144,6 @@
 				E44345681CCC150700A43DEC /* diagnosis1.csv */,
 				E44345381CCC004C00A43DEC /* Main.storyboard */,
 				E443453B1CCC004C00A43DEC /* Assets.xcassets */,
-				E443453D1CCC004D00A43DEC /* LaunchScreen.storyboard */,
 				E44345401CCC004D00A43DEC /* Info.plist */,
 				E443452F1CCC004C00A43DEC /* Supporting Files */,
 			);
@@ -126,6 +153,21 @@
 		E443452F1CCC004C00A43DEC /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				E44345AE1CCED03600A43DEC /* nurse.gif */,
+				E44345B61CCEEF0A00A43DEC /* pat2.jpg */,
+				E44345C01CCF002B00A43DEC /* new.png */,
+				E44345B81CCEEF1B00A43DEC /* pat1.jpg */,
+				E44345B91CCEEF1B00A43DEC /* pat3.jpg */,
+				E44345C61CCF040600A43DEC /* timer.gif */,
+				E44345C41CCF024C00A43DEC /* bground.jpg */,
+				E44345C21CCF00FF00A43DEC /* submit2.jpg */,
+				E44345BE1CCEFE6800A43DEC /* submit.png */,
+				E44345BA1CCEEF1B00A43DEC /* pat4.jpg */,
+				E44345B21CCEE1A400A43DEC /* play2.png */,
+				E44345B41CCEEE4900A43DEC /* resultnurse.jpg */,
+				E44345B01CCEE13B00A43DEC /* play.png */,
+				E44345AC1CCECBF400A43DEC /* hurry.gif */,
+				E44345AA1CCEBB9200A43DEC /* Hospital2.jpg */,
 				E44345301CCC004C00A43DEC /* main.m */,
 			);
 			name = "Supporting Files";
@@ -263,10 +305,24 @@
 			buildActionMask = 2147483647;
 			files = (
 				E44345651CCC07FF00A43DEC /* data.txt in Resources */,
-				E443453F1CCC004D00A43DEC /* LaunchScreen.storyboard in Resources */,
+				E44345BB1CCEEF1B00A43DEC /* pat1.jpg in Resources */,
+				E44345B11CCEE13B00A43DEC /* play.png in Resources */,
+				E44345C71CCF040600A43DEC /* timer.gif in Resources */,
+				E44345BF1CCEFE6800A43DEC /* submit.png in Resources */,
+				E44345C11CCF002B00A43DEC /* new.png in Resources */,
+				E44345AD1CCECBF400A43DEC /* hurry.gif in Resources */,
 				E443453C1CCC004C00A43DEC /* Assets.xcassets in Resources */,
 				E443453A1CCC004C00A43DEC /* Main.storyboard in Resources */,
+				E44345B31CCEE1A400A43DEC /* play2.png in Resources */,
+				E44345B51CCEEE4900A43DEC /* resultnurse.jpg in Resources */,
+				E44345AB1CCEBB9200A43DEC /* Hospital2.jpg in Resources */,
 				E44345691CCC150700A43DEC /* diagnosis1.csv in Resources */,
+				E44345C31CCF00FF00A43DEC /* submit2.jpg in Resources */,
+				E44345C51CCF024C00A43DEC /* bground.jpg in Resources */,
+				E44345BC1CCEEF1B00A43DEC /* pat3.jpg in Resources */,
+				E44345B71CCEEF0A00A43DEC /* pat2.jpg in Resources */,
+				E44345BD1CCEEF1B00A43DEC /* pat4.jpg in Resources */,
+				E44345AF1CCED03600A43DEC /* nurse.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -337,14 +393,6 @@
 				E44345391CCC004C00A43DEC /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		E443453D1CCC004D00A43DEC /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				E443453E1CCC004D00A43DEC /* Base */,
-			);
-			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -519,6 +567,7 @@
 				E443455B1CCC004D00A43DEC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E443455C1CCC004D00A43DEC /* Build configuration list for PBXNativeTarget "DiseaseReadTests" */ = {
 			isa = XCConfigurationList;
@@ -527,6 +576,7 @@
 				E443455E1CCC004D00A43DEC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E443455F1CCC004D00A43DEC /* Build configuration list for PBXNativeTarget "DiseaseReadUITests" */ = {
 			isa = XCConfigurationList;
@@ -535,6 +585,7 @@
 				E44345611CCC004D00A43DEC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

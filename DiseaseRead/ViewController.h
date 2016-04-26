@@ -14,6 +14,7 @@
 - (IBAction)Switch2:(id)sender;
 - (IBAction)Switch3:(id)sender;
 - (IBAction)Switch4:(id)sender;
+@property (weak, nonatomic) IBOutlet UIImageView *selectImage;
 @property (weak, nonatomic) IBOutlet UILabel *lblSymptom;
 @property (weak, nonatomic) IBOutlet UILabel *lblDiesease1;
 @property (weak, nonatomic) IBOutlet UILabel *lblDisease2;

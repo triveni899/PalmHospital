@@ -29,7 +29,10 @@ NSTimer *timer;
 int remainingCounts;
 
 - (void)viewDidLoad {
+    
+    self.view.backgroundColor = [UIColor colorWithPatternImage:[UIImage imageNamed:@"bground.jpg"]];
     [super viewDidLoad];
+  
     // Do any additional setup after loading the view, typically from a nib.
     [self readCSV];
     [self assignDisease:randomResult val:result];
@@ -79,7 +82,7 @@ int remainingCounts;
     
     NSBundle *mainBundle = [NSBundle mainBundle];
     
-    NSString *filePath = [mainBundle pathForResource:@"diagnosis1" ofType:@"csv"];
+    NSString *filePath = [mainBundle pathForResource:@"data" ofType:@"txt"];
     NSStringEncoding encoding;
     NSError *error;
     NSString *fileContents = [[NSString alloc] initWithContentsOfFile:filePath
@@ -87,8 +90,7 @@ int remainingCounts;
                                                                  error:&error];
     
     //NSLog(@"filecontents:  %@",fileContents);
-    NSMutableArray *colA = [NSMutableArray array];
-    NSMutableArray *colB = [NSMutableArray array];
+ 
     
     NSArray* rows = [fileContents componentsSeparatedByString:@"\n"];
     int numofrows = rows.count-1;
@@ -107,6 +109,7 @@ int remainingCounts;
         //[colA addObject:columns[0]];
         //[colB addObject:columns[1]];
         NSString *columnval= @" ";
+        NSString *comma = @",";
         if(i==randomSymptom)
         {
             for(int j=0; j<columns.count-1;j++)
@@ -117,6 +120,10 @@ int remainingCounts;
                // NSString *newString = [NSString stringWithFormat:@"Hello, %@ blah blah", variable];
                 
                 columnval = [columnval stringByAppendingString:columnstr];
+                if(j<columns.count-2)
+                {
+                columnval = [columnval stringByAppendingString:comma];
+                }
                 
                 //string1 = [string1 stringByAppendingString:string2];
                  NSLog(@"columnval:  %@",columnval);
