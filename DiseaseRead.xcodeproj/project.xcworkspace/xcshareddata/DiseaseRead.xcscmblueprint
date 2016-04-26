@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5DD499141388EB6C3582624CE1E02482ABB149F7+++577E181",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5DD499141388EB6C3582624CE1E02482ABB149F7+++9C2CE5B" : 0,
+    "5DD499141388EB6C3582624CE1E02482ABB149F7+++C3C5B81" : 0,
+    "5DD499141388EB6C3582624CE1E02482ABB149F7+++577E181" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B72DCF19-FBBA-4861-9BC9-6BC32A252121",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5DD499141388EB6C3582624CE1E02482ABB149F7+++9C2CE5B" : "",
+    "5DD499141388EB6C3582624CE1E02482ABB149F7+++C3C5B81" : "",
+    "5DD499141388EB6C3582624CE1E02482ABB149F7+++577E181" : "p08-banpela\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DiseaseRead",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "DiseaseRead.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/triveni89\/p08-banpela.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5DD499141388EB6C3582624CE1E02482ABB149F7+++577E181"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/triveni89\/p08-banpela.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5DD499141388EB6C3582624CE1E02482ABB149F7+++9C2CE5B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/triveni89\/p08-banpela.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5DD499141388EB6C3582624CE1E02482ABB149F7+++C3C5B81"
+    }
+  ]
+}
